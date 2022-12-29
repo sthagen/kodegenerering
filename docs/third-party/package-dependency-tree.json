@@ -1,0 +1,9 @@
+[
+    {
+        "key": "cogapp",
+        "package_name": "cogapp",
+        "installed_version": "3.3.0",
+        "required_version": "3.3.0",
+        "dependencies": []
+    }
+]

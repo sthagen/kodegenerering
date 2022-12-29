@@ -1,0 +1,3 @@
+digraph {
+	cogapp [label="cogapp\n3.3.0"]
+}
