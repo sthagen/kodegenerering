@@ -2,10 +2,10 @@
   "$schema": "http://cyclonedx.org/schema/bom-1.4.schema.json",
   "bomFormat": "CycloneDX",
   "specVersion": "1.4",
-  "serialNumber": "urn:uuid:ac4feed4-8a72-4304-83ff-b44a97646ccf",
+  "serialNumber": "urn:uuid:7d5ae3d6-19cd-4a07-9e3a-6dcdf864ab57",
   "version": 1,
   "metadata": {
-    "timestamp": "2022-12-29T18:31:54.898523+00:00",
+    "timestamp": "2023-01-07T17:10:25.709102+00:00",
     "tools": [
       {
         "vendor": "CycloneDX",
@@ -56,7 +56,7 @@
   "components": [
     {
       "type": "library",
-      "bom-ref": "7196b69b-b7e1-419d-ae64-07eb52806dc8",
+      "bom-ref": "f217a2e1-97bf-40d0-85e5-00f9a7aad69f",
       "name": "cogapp",
       "version": "3.3.0",
       "purl": "pkg:pypi/cogapp@3.3.0"
@@ -64,7 +64,7 @@
   ],
   "dependencies": [
     {
-      "ref": "7196b69b-b7e1-419d-ae64-07eb52806dc8",
+      "ref": "f217a2e1-97bf-40d0-85e5-00f9a7aad69f",
       "dependsOn": []
     }
   ]
