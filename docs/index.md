@@ -11,10 +11,7 @@ Third party dependencies are documented in the folder [third-party](third-party/
 [![wheel](https://img.shields.io/pypi/wheel/kodegenerering.svg?style=flat)](https://pypi.python.org/pypi/kodegenerering/)
 [![supported-versions](https://img.shields.io/pypi/pyversions/kodegenerering.svg?style=flat)](https://pypi.python.org/pypi/kodegenerering/)
 [![supported-implementations](https://img.shields.io/pypi/implementation/kodegenerering.svg?style=flat)](https://pypi.python.org/pypi/kodegenerering/)
-
-## Documentation
-
-User and developer [documentation of kodegenerering](https://codes.dilettant.life/docs/kodegenerering).
+[![maintenance-status](https://img.shields.io/github/commit-activity/y/sthagen/kodegenerering.svg?style=flat)](https://git.sr.ht/~sthagen/kodegenerering/log)
 
 ## Bug Tracker
 
