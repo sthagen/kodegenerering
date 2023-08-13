@@ -2,20 +2,20 @@
   "$schema": "http://cyclonedx.org/schema/bom-1.4.schema.json",
   "bomFormat": "CycloneDX",
   "specVersion": "1.4",
-  "serialNumber": "urn:uuid:78dcab0e-494f-4b6d-b148-9ffb4d2d5d2d",
+  "serialNumber": "urn:uuid:44d9eaef-ddd2-484a-8e59-cf55bcbae25e",
   "version": 1,
   "metadata": {
-    "timestamp": "2023-06-24T20:34:36.074164+00:00",
+    "timestamp": "2023-08-13T13:13:01.922953+00:00",
     "tools": [
       {
         "vendor": "CycloneDX",
         "name": "cyclonedx-bom",
-        "version": "3.11.0"
+        "version": "3.11.2"
       },
       {
         "vendor": "CycloneDX",
         "name": "cyclonedx-python-lib",
-        "version": "3.1.1",
+        "version": "3.1.5",
         "externalReferences": [
           {
             "url": "https://github.com/CycloneDX/cyclonedx-python-lib/actions",
@@ -56,7 +56,7 @@
   "components": [
     {
       "type": "library",
-      "bom-ref": "5da8690a-778f-4e1f-b2af-8be6e5c8ee7f",
+      "bom-ref": "e12fc926-93eb-425a-ae2b-358e6d4083b1",
       "name": "cogapp",
       "version": "3.3.0",
       "purl": "pkg:pypi/cogapp@3.3.0"
@@ -64,7 +64,7 @@
   ],
   "dependencies": [
     {
-      "ref": "5da8690a-778f-4e1f-b2af-8be6e5c8ee7f",
+      "ref": "e12fc926-93eb-425a-ae2b-358e6d4083b1",
       "dependsOn": []
     }
   ]
