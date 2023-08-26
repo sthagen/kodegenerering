@@ -7,7 +7,7 @@ Code generation (Dansk: kodegenerering) experiments
 Third party dependencies are documented in the folder [third-party](third-party/README.md).
 
 [![version](https://img.shields.io/pypi/v/kodegenerering.svg?style=flat)](https://pypi.python.org/pypi/kodegenerering/)
-[![downloads](https://pepy.tech/badge/kodegenerering/month)](https://pepy.tech/project/kodegenerering)
+[![downloads](https://static.pepy.tech/badge/kodegenerering/month)](https://pepy.tech/project/kodegenerering)
 [![wheel](https://img.shields.io/pypi/wheel/kodegenerering.svg?style=flat)](https://pypi.python.org/pypi/kodegenerering/)
 [![supported-versions](https://img.shields.io/pypi/pyversions/kodegenerering.svg?style=flat)](https://pypi.python.org/pypi/kodegenerering/)
 [![supported-implementations](https://img.shields.io/pypi/implementation/kodegenerering.svg?style=flat)](https://pypi.python.org/pypi/kodegenerering/)
