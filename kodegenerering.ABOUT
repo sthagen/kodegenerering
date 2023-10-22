@@ -1,0 +1,14 @@
+name: kodegenerering
+description: Code generation (Dansk: kodegenerering) experiments.
+license_spdx: MIT
+version: 2023.10.22
+spec_version: 1.0
+home_url: https://git.sr.ht/~sthagen/kodegenerering
+news_url: https://libraries.io/pypi/kodegenerering/versions.atom
+date: 2023-10-22
+about_resource: ./
+libraries_io_url: https://libraries.io/pypi/kodegenerering?number=2023.10.22
+vcs_tool: git
+vcs_repository: https://git.sr.ht/~sthagen/kodegenerering
+vcs_branch: default
+
