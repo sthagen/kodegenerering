@@ -10,7 +10,7 @@ Code generation (Dansk: kodegenerering) experiments
 [![Version](https://img.shields.io/pypi/v/kodegenerering.svg?style=flat)](https://pypi.python.org/pypi/kodegenerering/)
 [![Downloads](https://static.pepy.tech/badge/kodegenerering/month)](https://pepy.tech/project/kodegenerering)
 [![Supported Versions](https://img.shields.io/pypi/pyversions/kodegenerering.svg?style=flat)](https://pypi.python.org/pypi/kodegenerering/)
-[![Maintenance Status](https://img.shields.io/github/commit-activity/y/sthagen/kodegenerering.svg?style=flat)](https://git.sr.ht/~sthagen/kodegenerering/log)
+[![Maintenance Status](docs/badges/downloads-per-month.svg)](https://git.sr.ht/~sthagen/kodegenerering/log)
 
 ## Bug Tracker
 
