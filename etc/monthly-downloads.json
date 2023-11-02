@@ -6,9 +6,19 @@
       "downloads": 19
     },
     {
+      "category": "3.10",
+      "date": "2023-11",
+      "downloads": 4
+    },
+    {
       "category": "3.11",
       "date": "2023-10",
       "downloads": 3
+    },
+    {
+      "category": "3.11",
+      "date": "2023-11",
+      "downloads": 4
     },
     {
       "category": "3.3",
@@ -19,6 +29,11 @@
       "category": "3.9",
       "date": "2023-10",
       "downloads": 2
+    },
+    {
+      "category": "3.9",
+      "date": "2023-11",
+      "downloads": 4
     },
     {
       "category": "null",
