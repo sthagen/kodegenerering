@@ -8,7 +8,7 @@
     {
       "category": "3.10",
       "date": "2023-11",
-      "downloads": 162
+      "downloads": 170
     },
     {
       "category": "3.11",
@@ -18,7 +18,7 @@
     {
       "category": "3.11",
       "date": "2023-11",
-      "downloads": 162
+      "downloads": 170
     },
     {
       "category": "3.3",
@@ -48,7 +48,7 @@
     {
       "category": "null",
       "date": "2023-11",
-      "downloads": 20
+      "downloads": 22
     }
   ],
   "package": "kodegenerering",
