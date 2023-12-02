@@ -1,7 +1,7 @@
 {
   "kodegenerering": {
-    "version": "7.3.2",
-    "timestamp": "2023-12-02T15:20:25.946761",
+    "coverage_tool_version": "7.3.2",
+    "timestamp": "2023-12-02 15:55:56 +00:00",
     "branch_coverage": false,
     "show_contexts": true,
     "covered_lines": 0,
@@ -9,6 +9,22 @@
     "percent_covered": 0,
     "percent_covered_display": "0.00",
     "missing_lines": 2,
-    "excluded_lines": 0
+    "excluded_lines": 0,
+    "node_id": "c79891e5-aabf-3a83-95b9-588edcd8327f",
+    "nfiles": 3,
+    "files": [
+      "kodegenerering/__cli__.py",
+      "kodegenerering/__init__.py",
+      "kodegenerering/kodegenerering.py"
+    ],
+    "blake3": "dc1be55b2061604ae5ecf98c510969c72d1ba5995421ede245ea580afba3df47",
+    "blake2": "3b2a853d5a64b505c5878d515474cb645ec14346ae1345f34c25c91decbf9e2407fed22fe54221563b1b3c4ba8b6d0939045ccec15374c32b1e4d1cdc5a13b6c",
+    "sha512": "acd1e6f92108e01f880efd87f9c8efb52bfb8f644d5e7c69f37f601f8b4ac4b406283c9fc24a1ad9c4fe4e63b28bce6a4228b9506f4b72b84820a929303223da",
+    "sha384": "90568ce4fc0b44f5a4f4e07bb55e6b765d0fcb5876d5f3f2c59d5c75666b178fb64bd5eaae0b4ef14793e93668766a13",
+    "sha256": "3778ac1f3bcb1fdc2ccc9cd52f48d346b70ab041c5e9c712aba3bb864a4e6c81",
+    "sha1": "55e742efcf901473b81a3561fdca8f18b88d73d2",
+    "md5": "c73542c50b206c1dcd8370166692dde5",
+    "python_version": "3.10.12",
+    "entropy": 4.99288
   }
 }
